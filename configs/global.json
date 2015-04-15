@@ -1,0 +1,10 @@
+{
+  "name": "Atom",
+  "packages": [
+    {
+      "name": ".stylintrc",
+      "installDir": "/",
+      "optional": true
+    }
+  ]
+}
