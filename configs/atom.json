@@ -1,0 +1,35 @@
+{
+  "name": "Atom",
+  "packages": [
+    {
+      "name": "stylus"
+    },
+    {
+      "name": "linter"
+    },
+    {
+      "name": "linter-stylint"
+    },
+    {
+      "name": "linter-jscs"
+    },
+    {
+      "name": "language-jade"
+    },
+    {
+      "name": "editorconfig"
+    },
+    {
+      "name": "trailing-spaces",
+      "optional": true
+    },
+    {
+      "name": "autocomplete-plus",
+      "optional": true
+    },
+    {
+      "name": "autocomplete-paths",
+      "optional": true
+    }
+  ]
+}
